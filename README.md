@@ -18,14 +18,21 @@
 
 ## I mainly work with:
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-339933?&logo=mongodb&logoColor=ffffff)
+![Express](https://img.shields.io/badge/-Express-7393B3?&logo=Express)
+![React](https://img.shields.io/badge/-React-000000?&logo=react&logoColor=blue)
+![Node](https://img.shields.io/badge/-Node-339933?&logo=nodedotjs&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-E34F26?&logo=firebase&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
-![Node](https://img.shields.io/badge/-Node-339933?&logo=nodedotjs&logoColor=ffffff)
+
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)
 ![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?&logo=visual-studio-code)
-![iTerm2](https://img.shields.io/badge/-iTerm2-000000?&logo=iterm2)
+
+
+
 
