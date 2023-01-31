@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! 🙋🏻‍♀️</h1>
 
 <p align="center">My name is Jielin Wang (or Louisa), a software develover and web developer from China 🇨🇳 </p>
-<p">I'm currently learning the MERN Stack with the MIT/xPro - Full Stack Development course to become a Front-End Engineer or Full Stack Engineer. I love working on solving different problems and an enthusiast for programming, my goal is to create innovative applications that could make a positive impact on society and solve real-world problems</p>
+<p"> I recently finished my coding program with MIT xPRO. While earning my Professional Certificate in Coding, I gained experience working in the MERN (MongoDB, Express, React, and Node.js) technology stack. I love working on solving different problems and an enthusiast for programming, my goal is to create innovative applications that could make a positive impact on society and solve real-world problems</p>
 
 ## A bit more about me:
 
