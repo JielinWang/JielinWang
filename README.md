@@ -1,7 +1,7 @@
 <h1 align="center">Hello There! 🙋🏻‍♀️</h1>
 
 <p align="center">My name is Jielin Wang, a software develover and web developer from China 🇨🇳 </p>
-<p"> As a result of my academic training in computer coding, management, and economics, I have built a strong skill set.While earning my Professional Certificate in Coding from MIT xPRO, I gained experience working in the MERN technology stack specializing in Full-Stack Development, Web Development, and Frontend Development with JavaScript, CSS, HTML, NodeJS, and ReactJS. I love working on solving different problems and an enthusiast for programming, my goal is to create innovative applications that could make a positive impact on society and solve real-world problems</p>
+<p"> As a result of my academic training in computer coding, management, and economics, I have built a strong skill set.While earning my Professional Certificate in Coding from MIT, I gained experience working in the MERN technology stack specializing in Full-Stack Development, Web Development, and Frontend Development with JavaScript, CSS, HTML, NodeJS, and ReactJS. I love working on solving different problems and an enthusiast for programming, my goal is to create innovative applications that could make a positive impact on society and solve real-world problems</p>
 
 ## A bit more about me:
 
